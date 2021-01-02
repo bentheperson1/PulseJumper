@@ -1,0 +1,7 @@
+Pulse Jumper is a precision platformer developed and published by Fifth Edge Studios. It's available for download on Steam and Gamejolt for 5$ along with a free demo.
+
+The story is as follows:
+
+You are testing out an experimental military jumping device, until you get off course and end up on an drone AI training course! ...or are you?
+
+Pulse Jumper is designed to be sped-run from the ground up. There is a built in speed run timer to make recording times as easy as possible.
